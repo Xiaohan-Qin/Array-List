@@ -13,4 +13,4 @@ gcc quicksort.c -o quicksort
 `````
 
 ## Output
-![](screenshots/quicksort.PNG)
+![](screenshots/quicksort1.PNG)
